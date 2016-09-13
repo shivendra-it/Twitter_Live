@@ -1,0 +1,5 @@
+*) This code is written in GO.
+*) You should have to generate your own access key and Tokens.
+*) Put those in code and run the code at any GOPATH location
+*) run it as ----->
+		go run twitter_live_stream.go
